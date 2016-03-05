@@ -1,6 +1,6 @@
 Rails.application.configure do
   
-  config.active_record.mass_assignment_sanitizer = :strict
+ # config.active_record.mass_assignment_sanitizer = :strict
   # Settings specified here will take precedence over those in config/application.rb.
 
   # In the development environment your application's code is reloaded on
